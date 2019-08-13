@@ -6,12 +6,12 @@ Create a GitHubRepository class with properties userName, fileName, descriptionO
 ### Problem 2:
 Create a Movie class with the following properties: movieName, rating, and yearReleased. Create a method to change the rating and another one to change the yearReleased properties. Create an object of the class and use the two methods you created.
 
-### Problem 3:
+### Challenge 1:
 Create a Person class with three properties: name, weight, and height. Create a method that can calculate the BMI of a person using the formula below. Create an object of the class and use the function.
 
 BMI is  (weight / (height * height)) x 703. Weight is in pounds and height is in inches.
 
-### Problem 4:
+### Challenge 2:
 Create a Bank class with the the name and balance properties. Afterwards, create an object of the class and follow the instructions below:
 - Creates an account named "Matt's account" with the balance of 1000
 - Creates an account named "My account" with the balance of 0
