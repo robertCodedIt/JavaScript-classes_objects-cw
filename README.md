@@ -4,7 +4,10 @@
 Create a GitHubRepository class with properties userName, fileName, descriptionOfRepository, and code. Create a function that prints all properties. Create an object of the class and use the function.
 
 ### Problem 2:
-Create a Movie class with the following properties: movieName, rating, and yearReleased. Create a method to change the rating and another one to change the yearReleased properties. Create an object of the class and use the two methods you created.
+Create a Movie class with the following properties: movieName, rating, and yearReleased. Create a method to change the rating and another one to change the yearReleased properties using prompt. Create an object of the class and use the two methods you created.
+
+### Problem 3:
+Create a Student class with the following properties : studentName, codeSchoolCohort, and grades(grades should be an array of object literals with the properties assignemtName and assignemtnScore). Create a method that accepts an assignment name and assignment score literal and adds a grade to the grades array. Create a method that accepts a student name and updates the studentName of an object. Create two instances of this class with empty grade arrays. Add one grade item to each object's grade array using the class method. Update the name of one object using the class method.
 
 ### Challenge 1:
 Create a Person class with three properties: name, weight, and height. Create a method that can calculate the BMI of a person using the formula below. Create an object of the class and use the function.
